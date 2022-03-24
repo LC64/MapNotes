@@ -55,6 +55,11 @@ a:visited {
   margin-bottom: 2rem;
 }
 
+.clear {
+  height: 4rem;
+  border-radius: 5px;
+}
+
 .workouts {
   list-style: none;
   height: 77vh;
