@@ -56,8 +56,16 @@ a:visited {
 }
 
 .clear {
-  height: 4rem;
+  background-color: var(--color-dark--2);
+  border-color: #ececec;
   border-radius: 5px;
+  padding: 1.5rem 2.25rem;
+  margin-bottom: 1.75rem;
+  cursor: pointer;
+  color: #ececec;
+  font-size: 1.7rem;
+  display: flex;
+  align-self: center;
 }
 
 .workouts {
